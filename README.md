@@ -12,7 +12,7 @@
 Формат вывода:
 - Выведите единственное число x, наибольшее из чисел, которое чаще других встречается в массиве a.
 
-* [РЕШЕНИЕ](https://github.com/K4sho/YandexSchool/blob/master/B.py)
+**[РЕШЕНИЕ]**(https://github.com/K4sho/YandexSchool/blob/master/B.py)
 
 ## ![2✔]Значения элементов последовательности
 
@@ -28,7 +28,7 @@ f0 = 0, f1 = 1, f2 = 2 и fk = fk-1 + fk-3.
 Формат вывода:
 - Выведите через пробел значения fk1, fk2, …, fkn.
 
-* [РЕШЕНИЕ](https://github.com/K4sho/YandexSchool/blob/master/C.py)
+**[РЕШЕНИЕ]**(https://github.com/K4sho/YandexSchool/blob/master/C.py)
 
 ## ![3✔]Реализовать JOIN
 
@@ -42,7 +42,7 @@ f0 = 0, f1 = 1, f2 = 2 и fk = fk-1 + fk-3.
 Формат вывода:
 - В первой строке выведите число n3 — количество строк в таблице T3. В следующих n3 строках выведите через пробел значения полей ak, bk и ck таблицы T3. Если в результате соединения таблиц значение какого-либо поля отсутствует, выведите NULL вместо этого поля. Порядок вывода строк таблицы T3 не важен.
 
-* [РЕШЕНИЕ](https://github.com/K4sho/YandexSchool/blob/master/D.py)
+**[РЕШЕНИЕ]**(https://github.com/K4sho/YandexSchool/blob/master/D.py)
 
 ## ![4✔]Удаление пустых значений
 
@@ -66,7 +66,7 @@ f0 = 0, f1 = 1, f2 = 2 и fk = fk-1 + fk-3.
 Формат вывода:
 - Выведите искомый момент времени t.
 
-* [РЕШЕНИЕ](https://github.com/K4sho/YandexSchool/blob/master/F.py)
+**[РЕШЕНИЕ]**(https://github.com/K4sho/YandexSchool/blob/master/F.py)
 
 ## ![6✔]Кодирование длин серий
 
@@ -80,7 +80,7 @@ f0 = 0, f1 = 1, f2 = 2 и fk = fk-1 + fk-3.
 Формат вывода:
 - Выведите длину исходной строки.
 
-* [РЕШЕНИЕ](https://github.com/K4sho/YandexSchool/blob/master/G.py)
+**[РЕШЕНИЕ]**(https://github.com/K4sho/YandexSchool/blob/master/G.py)
 
 ## ![7✔]Детектор DDOS
 
@@ -92,5 +92,5 @@ f0 = 0, f1 = 1, f2 = 2 и fk = fk-1 + fk-3.
 Формат вывода:
 - Выведите список «плохих» IP-адресов в лексикографическом порядке.
 
-* [РЕШЕНИЕ](https://github.com/K4sho/YandexSchool/blob/master/H.py)
+**[РЕШЕНИЕ]**(https://github.com/K4sho/YandexSchool/blob/master/H.py)
 
